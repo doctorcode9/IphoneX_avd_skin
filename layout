@@ -10,7 +10,7 @@ parts {
 
     portrait {
         background {
-            image port_backs.png
+            image port_backs_iphone.png
         }
         foreground {
             mask  rounded_corners.png
